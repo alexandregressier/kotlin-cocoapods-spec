@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-   s.name         = 'AWSMobileClient'
+   s.name         = 'example'
    s.version      = '2.27.10'
    s.summary      = 'Amazon Web Services SDK for iOS.'
  
